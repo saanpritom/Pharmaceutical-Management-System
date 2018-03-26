@@ -1,0 +1,37 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 19, 2015, 3:56:10 PM
+    Author     : Desktop PC
+*/
+
+#signup_panel_header {
+    background-color: black;
+}
+#signup_panel_body {
+    background-color: white;
+}
+#signup_panel_body_table {
+    background-color: #adadad;
+    color: black;
+}
+.form-group.required .control-label:after {
+  content:"*";
+  color:red;
+}
+#signup_header_declare {
+    background-color: black;
+}
+.company_address_instruction {
+    alignment-adjust: middle;
+}
+.log_info_direction {
+    background-color: black;
+    color: white;
+}
+.modal-content {
+    background-color: #adadad;
+}
